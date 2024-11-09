@@ -72,7 +72,7 @@ def send_alert_email(self, price):
         subject = 'Gas price alert'
         content = f'current gas price is: {price} Gwei，lower than 5 Gwei！'
         yag.send(receiver_email, subject, content)
-        print(f"email alert sent，current gas价格: {price} Gwei")
+        print(f"email alert sent，current gas price: {price} Gwei")
     except Exception as e:
         print(f"error occured while sending email: {e}")
 
