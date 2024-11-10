@@ -12,7 +12,7 @@ go to setting - General - Third party - Generate Authorisation Code
 
 If you are using Python 3, simply install using:
 
-pip3 install webdriver_manager.chrome
-pip3 install selenium
-pip3 install schedule
-pip3 install yagmail
+pip3 install webdriver_manager.chrome      
+pip3 install selenium      
+pip3 install schedule     
+pip3 install yagmail    
