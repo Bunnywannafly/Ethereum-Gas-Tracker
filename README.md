@@ -6,6 +6,7 @@ This program is aimed to track the real time gas (gwei) on Ethereum mainnet. If 
 
 # How to set up the QQ email SMTP service?
 go to setting - General - Third party - Generate Authorisation Code
+
 <img width="834" alt="image" src="https://github.com/user-attachments/assets/1b13e532-295a-409c-8cfb-4ce7f4942301">
 
 # You need to install these dependencies to run the code
